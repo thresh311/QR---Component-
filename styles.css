@@ -60,7 +60,8 @@ main {
 	color: var(--slate-500);
 	margin-top: var(--space-200);
 	font-weight: var(--regular-font-weight);
-	font-size: 15px;
+	line-height: 140%;
+	letter-spacing: 0.2px;
 }
 
 .card-title {
@@ -70,6 +71,7 @@ main {
 	margin-top: var(--space-300);
 	font-size: 22px;
 	font-weight: var(--bold-font-wight);
+	line-height: 120%;
 }
 
 .card img {
